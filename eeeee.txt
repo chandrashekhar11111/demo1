@@ -6,3 +6,4 @@
                                 <!--<span>Store Phone Number :- {{ $product->store->phone }}</span>-->
 
  <img src="https://quillyymain.s3.ap-south-1.amazonaws.com/general/bike.gif" style="width: 60px; height: 40px; margin-left:22px; align="center">
+<h2>How are u?</h2>
